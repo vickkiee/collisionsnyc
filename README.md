@@ -7,3 +7,6 @@ collisionsnyc
 - pydeck==0.3.0
 - streamlit==0.57.3
 - plotly==4.0.0
+
+#### To run:
+streamlit run https://github.com/vickkiee/collisionsnyc/collisionsnys.py
