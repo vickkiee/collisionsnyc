@@ -9,4 +9,4 @@ collisionsnyc
 - plotly==4.0.0
 
 #### To run:
-streamlit run https://github.com/vickkiee/collisionsnyc/collisionsnys.py
+streamlit run https://github.com/vickkiee/collisionsnyc/blob/master/collisionsnyc.py
